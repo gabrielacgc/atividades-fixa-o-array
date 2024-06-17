@@ -1,0 +1,10 @@
+Aula - 10/05/2024 ARRAY E VETORES 
+
+pop() -> apaga 
+push()  -> adiciona no final 
+
+
+unshit() -> adiciona no inicio
+shift() -> remove do inicio
+
+
